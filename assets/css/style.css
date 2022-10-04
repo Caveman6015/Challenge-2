@@ -59,12 +59,14 @@ div img {
     height: 25%;
 }
 
-#my-work {
-    margin-right: 0px;
+.aside {
+    position: absolute;
+    top: 45%;
+    right: 0px;
     padding: 10px;
     float: right;
     width: 40%;
-    height: 100%;
+    height: 200%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color:rgb(35, 41, 41);
 }
@@ -78,3 +80,17 @@ img:hover {
     width: 100%;
 }
 
+@media screen and (max-width: 768px) {
+    .aside {
+        position: absolute;
+        top: 120%;
+        left: 0%;
+        width: 50%;
+    }
+
+    .main {
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    
+}
