@@ -8,7 +8,8 @@ There will be a link in the usage section to navigate to the webpage.
 Usage
 (https://caveman6015.github.io/Challenge-2/)
 
-![screencapture-caveman6015-github-io-Challenge-2-2022-10-03-21_39_17](https://user-images.githubusercontent.com/108309331/193716287-1b805ab6-b8ec-40a1-80c4-56262a3b7ea0.png)
+
+![screencapture-caveman6015-github-io-Challenge-2-2022-12-05-21_49_55](https://user-images.githubusercontent.com/108309331/205797225-4d6c4a25-abfb-4964-a2c2-8d3322fbfd39.png)
 
 
 
