@@ -1,15 +1,19 @@
-# Challenge-2GIVEN I need to sample a potential employee's previous work
+Challenge one HTML-Git-CSS
+Description
+I was tasked with creating a web page to show to prospected employers. This is a page I plan on upgrading throught the class to show what additional skills i have learned.
+
+Installation
+There will be a link in the usage section to navigate to the webpage.
+
+Usage
+(https://caveman6015.github.io/Challenge-2/)
+
+![screencapture-caveman6015-github-io-Challenge-2-2022-10-03-21_39_17](https://user-images.githubusercontent.com/108309331/193716287-1b805ab6-b8ec-40a1-80c4-56262a3b7ea0.png)
 
 
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+
+Credits
+n/a
+
+License
+n/a
